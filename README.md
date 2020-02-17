@@ -5,7 +5,6 @@ webI is a NLP/NLU chatbot that can do complex network analysis
 webI in its current state can do complex network analysis on Twitter, including sentiment analysis, PageRank of Retweet Networks,
 Friend of a Friend Analysis(code is in there just have to train), and many more.
 
-Alot of functionality on the backend has already been coded out awaiting implementation but being only one person, development has been slow... hence why im open sourcing it:) 
 
 **How to Start:**
 
